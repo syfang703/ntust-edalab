@@ -82,6 +82,22 @@ p.zh {
   font-size: 1.5rem;
 }
 
+.name_elegant {
+	
+  font-family: BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji' !important ;
+	
+}
+
+.member_name_zh {
+	color: #343a40; 
+	font-size: 1.6rem; 
+	font-weight:400;
+}
+
+.member_title {
+	color: #868e96; 
+	font-size:1.2rem;
+}
 
 .social-icons a {
   display: inline-block;
@@ -99,8 +115,7 @@ p.zh {
 .item{
 	
 
-  background-color: #f08bc3;
-  margin: 5px;
+
   display: flex;
   justify-content: center;
   align-items: center;
