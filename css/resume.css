@@ -406,3 +406,9 @@ blockquote p:after {
     border: 0.1rem solid rgba(33, 97, 140, 0.5);
 	border-radius: 50%;
   }
+  
+  .img-max {
+  min-width: 160px !important;  
+  max-width: 160px;
+  width:100%;
+}
